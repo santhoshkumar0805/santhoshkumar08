@@ -1,2 +1,2 @@
 # santhoshkumar08
-im learning HTML,CSS,Javascript.
+Im learning HTML,CSS,Javascript.
